@@ -38,14 +38,14 @@ You may also participate in responding to security incidents. As an Azure securi
  ---
 # Manage Identity and Access (25–30%)
 
-## Manage Microsoft Entra Identities
+## [Manage Microsoft Entra Identities](https://learn.microsoft.com/en-us/training/modules/manage-identities-microsoft-entra-id/)
 - Secure Microsoft Entra users
 - Secure Microsoft Entra groups
 - Recommend when to use external identities
 - Secure external identities
 - Implement Microsoft Entra ID Protection
 
-## Manage Microsoft Entra Authentication
+## [Manage Microsoft Entra Authentication](https://learn.microsoft.com/en-us/training/modules/manage-authentication-microsoft-entra-id/)
 - Implement multi-factor authentication (MFA)
 - Configure Microsoft Entra Verified ID
 - Implement passwordless authentication
