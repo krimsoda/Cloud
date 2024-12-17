@@ -54,7 +54,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Integrate single sign-on (SSO) and identity providers
 - Recommend and enforce modern authentication methods
 
-## Manage Microsoft Entra Authorization
+## [Manage Microsoft Entra Authorization](https://learn.microsoft.com/en-us/training/modules/manage-authorization-microsoft-entra-id/)
 - Configure Azure role permissions for management groups, subscriptions, resource groups, and resources  
 - Assign Microsoft Entra built-in roles
 - Assign Azure built-in roles
@@ -64,7 +64,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure role management and access reviews in Microsoft Entra
 - Implement Conditional Access policies
 
-## Manage Microsoft Entra Application Access
+## [Manage Microsoft Entra Application Access](https://learn.microsoft.com/en-us/training/modules/manage-application-access-microsoft-entra-id/)
 - Manage access to enterprise applications in Microsoft Entra ID, including OAuth permission grants  
 - Manage Microsoft Entra app registrations
 - Configure app registration permission scopes
@@ -77,7 +77,7 @@ You may also participate in responding to security incidents. As an Azure securi
 
 # Secure Networking (20–25%)
 
-## Plan and Implement Security for Virtual Networks
+## [Plan and Implement Security for Virtual Networks[(https://learn.microsoft.com/en-us/training/modules/security-virtual-networks/)
 - Plan and implement Network Security Groups (NSGs) and Application Security Groups (ASGs)  
 - Plan and implement user-defined routes (UDRs)
 - Plan and implement Virtual Network peering or VPN gateway
@@ -87,7 +87,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure firewall settings on PaaS resources
 - Monitor network security by using Network Watcher, including NSG flow logging
 
-## Plan and Implement Security for Private Access to Azure Resources
+## [Plan and Implement Security for Private Access to Azure Resources](https://learn.microsoft.com/en-us/training/modules/security-private-access-azure-resources/)
 - Plan and implement virtual network Service Endpoints
 - Plan and implement Private Endpoints
 - Plan and implement Private Link services
@@ -95,7 +95,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Plan and implement network security configurations for an App Service Environment (ASE)  
 - Plan and implement network security configurations for an Azure SQL Managed Instance  
 
-## Plan and Implement Security for Public Access to Azure Resources
+## [Plan and Implement Security for Public Access to Azure Resources](https://learn.microsoft.com/en-us/training/modules/security-public-access-azure-resources/)
 - Plan and implement Transport Layer Security (TLS) to applications, including Azure App Service and API Management  
 - Plan, implement, and manage an Azure Firewall, including Azure Firewall Manager and firewall policies  
 - Plan and implement an Azure Application Gateway
