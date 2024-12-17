@@ -1,33 +1,40 @@
-**Study guide for Exam AZ-500: Microsoft Azure Security Technologies**
-- ---
-  
-  Skills measured as of October 30, 2024
-  
-  **Audience profile**
-  
-  As the Azure security engineer, you implement, manage, and monitor security for resources in Azure, multi-cloud, and hybrid environments as part of an end-to-end infrastructure. You recommend security components and configurations to protect the following:
-- Identity and access
-- Data
-- Applications
-- Networks
-	  
+# Study Guide for Exam AZ-500: Microsoft Azure Security Technologies
+
+## Skills Measured as of October 30, 2024
+
+## Audience Profile
+
+As the Azure security engineer, you implement, manage, and monitor security for resources in Azure, multi-cloud, and hybrid environments as part of an end-to-end infrastructure. You recommend security components and configurations to protect the following:
+
+- **Identity and access**
+- **Data**
+- **Applications**
+- **Networks**
+
+### Responsibilities:
 Your responsibilities as an Azure security engineer include:
+
 - Managing the security posture.
 - Identifying and remediating vulnerabilities.
 - Performing threat modelling.
 - Implementing threat protection.
 
 You may also participate in responding to security incidents. As an Azure security engineer, you work with architects, administrators, and developers to plan and implement solutions that meet security and compliance requirements.
-	  
-You should have:
+
+### You Should Have:
+
 - Practical experience in administration of Microsoft Azure and hybrid environments.
 - Strong familiarity with compute, network, and storage in Azure and Microsoft Entra ID.
-	  
-Skills at a glance
-- Manage identity and access (25–30%)
-- Secure networking (20–25%)
-- Secure compute, storage, and databases (20–25%)
-- Manage security operations (25–30%)
+
+---
+
+## Skills at a Glance
+
+- **Manage identity and access** (25–30%)
+- **Secure networking** (20–25%)
+- **Secure compute, storage, and databases** (20–25%)
+- **Manage security operations** (25–30%)
+
  ---
 # Manage Identity and Access (25–30%)
 
