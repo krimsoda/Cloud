@@ -77,7 +77,7 @@ You may also participate in responding to security incidents. As an Azure securi
 
 # Secure Networking (20–25%)
 
-## [Plan and Implement Security for Virtual Networks[(https://learn.microsoft.com/en-us/training/modules/security-virtual-networks/)
+## [Plan and Implement Security for Virtual Networks](https://learn.microsoft.com/en-us/training/modules/security-virtual-networks/)
 - Plan and implement Network Security Groups (NSGs) and Application Security Groups (ASGs)  
 - Plan and implement user-defined routes (UDRs)
 - Plan and implement Virtual Network peering or VPN gateway
@@ -107,7 +107,7 @@ You may also participate in responding to security incidents. As an Azure securi
 
 # Secure Compute, Storage, and Databases (20–25%)
 
-## Plan and Implement Advanced Security for Compute
+## [Plan and Implement Advanced Security for Compute](https://learn.microsoft.com/en-us/training/modules/advanced-security-compute/)
 - Plan and implement remote access to public endpoints, including Azure Bastion and just-in-time (JIT) virtual machine (VM) access  
 - Configure network isolation for Azure Kubernetes Service (AKS)
 - Secure and monitor AKS
@@ -118,7 +118,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure disk encryption, including Azure Disk Encryption (ADE), encryption at host, and confidential disk encryption  
 - Recommend security configurations for Azure API Management
 
-## Plan and Implement Security for Storage
+## [Plan and Implement Security for Storage](https://learn.microsoft.com/en-us/training/modules/security-storage/)
 - Configure access control for storage accounts
 - Manage life cycle for storage account access keys
 - Select and configure an appropriate method for access to Azure Files
@@ -129,7 +129,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure Bring Your Own Key (BYOK)
 - Enable double encryption at the Azure Storage infrastructure level
 
-## Plan and Implement Security for Azure SQL Database and Azure SQL Managed Instance
+## [Plan and Implement Security for Azure SQL Database and Azure SQL Managed Instance](https://learn.microsoft.com/en-us/training/modules/security-azure-sql-database-azure-sql-managed-instance/)
 - Enable Microsoft Entra database authentication
 - Enable database auditing
 - Identify use cases for the Microsoft Purview governance portal
@@ -142,7 +142,7 @@ You may also participate in responding to security incidents. As an Azure securi
 
 # Manage Security Operations (25–30%)
 
-## Plan, Implement, and Manage Governance for Security
+## [Plan, Implement, and Manage Governance for Security](https://learn.microsoft.com/en-us/training/modules/governance-security/)
 - Create, assign, and interpret security policies and initiatives in Azure Policy
 - Configure security settings by using Azure Blueprints
 - Deploy secure infrastructures by using a landing zone
@@ -153,7 +153,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure key rotation
 - Configure backup and recovery of certificates, secrets, and keys
 
-## Manage Security Posture by Using Microsoft Defender for Cloud
+## [Manage Security Posture by Using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-security-posture/)
 - Identify and remediate security risks by using the Microsoft Defender for Cloud Secure Score and Inventory  
 - Assess compliance against security frameworks by using Microsoft Defender for Cloud  
 - Add industry and regulatory standards to Microsoft Defender for Cloud
@@ -161,7 +161,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Connect hybrid cloud and multi-cloud environments to Microsoft Defender for Cloud
 - Identify and monitor external assets by using Microsoft Defender External Attack Surface Management  
 
-## Configure and Manage Threat Protection by Using Microsoft Defender for Cloud
+## [Configure and Manage Threat Protection by Using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/modules/microsoft-defender-cloud-threat-protection/)
 - Enable workload protection services in Microsoft Defender for Cloud, including Microsoft Defender for Storage, Databases, Containers, App Service, Key Vault, and Resource Manager  
 - Configure Microsoft Defender for Servers
 - Configure Microsoft Defender for Azure SQL Database
@@ -169,7 +169,7 @@ You may also participate in responding to security incidents. As an Azure securi
 - Configure workflow automation by using Microsoft Defender for Cloud
 - Evaluate vulnerability scans from Microsoft Defender for Server
 
-## Configure and Manage Security Monitoring and Automation Solutions
+## [Configure and Manage Security Monitoring and Automation Solutions](https://learn.microsoft.com/en-us/training/modules/security-monitoring-automation-solutions/)
 - Monitor security events by using Azure Monitor
 - Configure data connectors in Microsoft Sentinel
 - Create and customize analytics rules in Microsoft Sentinel
