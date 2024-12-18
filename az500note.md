@@ -1,4 +1,4 @@
-AZ500 Notes
+---
 Running into issues with an expired Azure trial subscription? No worries! You can still sharpen your skills with the AZ-104 Interactive Cloud Guides. These hands-on exercises let you explore Azure features without needing an active subscription.
 Check them out below and keep learning!
 
