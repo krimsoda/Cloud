@@ -36,3 +36,19 @@ https://lnkd.in/dWrb4jJv
 https://lnkd.in/drrtAzx6
 📊 Implement Monitoring
 https://lnkd.in/dbXFTwRQ
+
+
+
+Azure Networking For Beginners (AZ-104 & AZ-500 Exam).
+
+https://lnkd.in/gqjBJdf6
+
+Learn the core concept for AZ-104 & AZ-500 Exam.
+The video covers the following:
+
+-> Relation between subscription, region and Virtual Networks.
+-> How to create a Virtual Network and what are the decision points.
+-> Master subnetting to carve out subnets within the Virtual Network.
+-> How to create multiple subnets, including Azure Bastion & Azure Firewall     Subnet.
+-> What is Virtual Network Peering.
+-> Commonly asked questions around VNets & Subnets.
