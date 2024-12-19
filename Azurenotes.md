@@ -39,6 +39,12 @@ Check them out below and keep learning!
 📊 [Implement Monitoring](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2017?WT.mc_id=AZ-MVP-5004274)
 
 ---
+All Labs:
+
+https://github.com/MicrosoftLearning
+
+---
+
 Learning Material
 
 - [Data Protection Guide](https://aka.ms/Guide/DataProtection)
