@@ -6,50 +6,35 @@ Check them out below and keep learning!
 
 🚀 [Manage Subscriptions and RBAC](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202?WT.mc_id=AZ-MVP-5004274)
 
-🛠️ Manage Governance via Azure Policy
-https://lnkd.in/dz6CH9Hs
+🛠️ [Manage Governance via Azure Policy](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%203?WT.mc_id=AZ-MVP-5004274)
 
-🌐 Manage Azure Resources by using the Azure Portal
-https://lnkd.in/d9zDdGgf
+🌐 [Manage Azure Resources by using the Azure Portal](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%204?WT.mc_id=AZ-MVP-5004274)
 
-📂 Manage Azure Resources by using Azure Resource Manager Templates
-https://lnkd.in/drvXEgQs
+📂 [Manage Azure Resources by using Azure Resource Manager Templates](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%205?WT.mc_id=AZ-MVP-5004274)
 
-💻 Manage Azure Resources by using Azure PowerShell
-https://lnkd.in/dMGv297Z
+💻 [Manage Azure Resources by using Azure PowerShell](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%206?WT.mc_id=AZ-MVP-5004274)
 
-🔧 Manage Azure Resources by using the Azure CLI
-https://lnkd.in/dgJbt-ir
+🔧 [Manage Azure Resources by using the Azure CLI](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%207?WT.mc_id=AZ-MVP-5004274)
 
-🔗 Implement Virtual Networking
-https://lnkd.in/dxiFruFc
+🔗 [Implement Virtual Networking](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%208?WT.mc_id=AZ-MVP-5004274)
 
-🌍 Implement Intersite Connectivity
-https://lnkd.in/dyXycH9M
+🌍 [Implement Intersite Connectivity](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%209?WT.mc_id=AZ-MVP-5004274)
 
-⚖️ Implement Traffic Management
-https://lnkd.in/dJrEtrim
+⚖️ [Implement Traffic Management](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2010?WT.mc_id=AZ-MVP-5004274)
 
-💾 Manage Azure Storage
-https://lnkd.in/dSn8aqfs
+💾 [Manage Azure Storage](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2011?WT.mc_id=AZ-MVP-5004274)
 
-🖥️ Manage Virtual Machines
-https://lnkd.in/d8i7qbdx
+🖥️ [Manage Virtual Machines](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2012?WT.mc_id=AZ-MVP-5004274)
 
-🌐 Implement Azure Web Apps
-https://lnkd.in/dA4ixUvh
+🌐 [Implement Azure Web Apps](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2013?WT.mc_id=AZ-MVP-5004274)
 
-📦 Implement Azure Container Instances
-https://lnkd.in/dMruWX6p
+📦 [Implement Azure Container Instances](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2014?WT.mc_id=AZ-MVP-5004274)
 
-🐳 Implement Azure Kubernetes Service
-https://lnkd.in/dWrb4jJv
+🐳 [Implement Azure Kubernetes Service](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2015?WT.mc_id=AZ-MVP-5004274)
 
-🛡️ Backup Virtual Machines
-https://lnkd.in/drrtAzx6
+🛡️ [Backup Virtual Machines](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2016?WT.mc_id=AZ-MVP-5004274)
 
-📊 Implement Monitoring
-https://lnkd.in/dbXFTwRQ
+📊 [Implement Monitoring](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%2017?WT.mc_id=AZ-MVP-5004274)
 
 ---
 
