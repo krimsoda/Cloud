@@ -2,11 +2,9 @@
 Running into issues with an expired Azure trial subscription? No worries! You can still sharpen your skills with the AZ-104 Interactive Cloud Guides. These hands-on exercises let you explore Azure features without needing an active subscription.
 Check them out below and keep learning!
 
-🌟 Manage Azure Entra ID Identities
-https://lnkd.in/dqupP4pS
+🌟 [Manage Azure Entra ID Identities](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%201?WT.mc_id=AZ-MVP-5004274)
 
-🚀 Manage Subscriptions and RBAC
-https://lnkd.in/deKAHzmg
+🚀 [Manage Subscriptions and RBAC](https://mslabs.cloudguides.com/en-us/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202?WT.mc_id=AZ-MVP-5004274)
 
 🛠️ Manage Governance via Azure Policy
 https://lnkd.in/dz6CH9Hs
