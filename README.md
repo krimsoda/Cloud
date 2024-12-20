@@ -4,3 +4,5 @@
 [AZ104](https://github.com/krimsoda/Cloud/blob/83556ef04f2b9e2a2581154a53e1dbc8f13e0d55/AZ104%20-%20Microsoft%20Azure%20Administrator.md)
 
 [AZ500](https://github.com/krimsoda/Cloud/blob/83556ef04f2b9e2a2581154a53e1dbc8f13e0d55/AZ500%20-%20Azure%20Security%20Engineer%20Associate.md)
+
+[Azure Course Blueprints](https://techcommunity.microsoft.com/discussions/azurearchitecture/azure-course-blueprints/4012399)
