@@ -111,3 +111,6 @@ The video covers the following:
 -> What is Virtual Network Peering.
 
 -> Commonly asked questions around VNets & Subnets.
+
+---
+[Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)
