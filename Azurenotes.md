@@ -114,3 +114,6 @@ The video covers the following:
 
 ---
 [Microsoft Security Academy](https://microsoft.github.io/PartnerResources/skilling/microsoft-security-academy)
+
+
+https://msft.it/6049oOG5D
