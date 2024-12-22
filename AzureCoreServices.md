@@ -376,8 +376,3 @@ This comparison outlines the equivalent services offered by **Azure** and **AWS*
 | Pricing Calculator        | Azure Pricing Calculator      | AWS Pricing Calculator       |
 
 ---
-
-Let me know if you'd like additional details or a focus on specific categories!
-
-
-
