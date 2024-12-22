@@ -297,7 +297,7 @@ This comparison outlines the equivalent services offered by **Azure** and **AWS*
 ## 5. **Identity and Access Management**
 | **Category**             | **Azure**                     | **AWS**                       |
 |---------------------------|-------------------------------|--------------------------------|
-| Identity Management       | Azure Active Directory (Azure AD) | AWS Identity and Access Management (IAM) |
+| Identity Management       | Microsoft Entra ID | AWS Identity and Access Management (IAM) |
 | Multi-Factor Authentication | Azure MFA                  | AWS MFA                      |
 | Role-Based Access Control | Azure RBAC                   | AWS IAM Roles                |
 | Single Sign-On            | Azure AD SSO                 | AWS SSO                      |
