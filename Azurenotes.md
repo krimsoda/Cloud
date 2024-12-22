@@ -117,3 +117,5 @@ The video covers the following:
 
 
 https://msft.it/6049oOG5D
+
+[Microsoft Learn Security hub](https://learn.microsoft.com/en-us/security/)
