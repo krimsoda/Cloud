@@ -119,3 +119,20 @@ The video covers the following:
 https://msft.it/6049oOG5D
 
 [Microsoft Learn Security hub](https://learn.microsoft.com/en-us/security/)
+
+---
+Youtube
+
+[GPS](https://www.youtube.com/@MadeByGPS)
+
+[John Savill's Technical Training](https://www.youtube.com/@NTFAQGuy)
+
+[John Christopher](https://www.youtube.com/@examlabpractice)
+
+[CyberCheck](https://www.youtube.com/@Cyber-Check/videos)
+
+[Rajith Enchiparambil](https://www.youtube.com/@Cloudiffic/videos)
+
+[Microsoft Security Community](https://www.youtube.com/@MicrosoftSecurityCommunity/videos)
+
+[Microsoft Security](https://www.youtube.com/@MicrosoftSecurity/videos)
