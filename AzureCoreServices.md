@@ -240,5 +240,144 @@
 
 ---
 
+---
+# Azure vs AWS Services Comparison
+
+This comparison outlines the equivalent services offered by **Azure** and **AWS** across various categories.
+
+---
+
+## 1. **Compute**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Virtual Machines          | Azure Virtual Machines        | Amazon EC2                   |
+| Serverless Compute        | Azure Functions               | AWS Lambda                   |
+| Containers (Managed)      | Azure Kubernetes Service (AKS)| Amazon Elastic Kubernetes Service (EKS) |
+| Container Registry        | Azure Container Registry      | Amazon Elastic Container Registry (ECR) |
+| Batch Processing          | Azure Batch                  | AWS Batch                    |
+| Dedicated Servers         | Azure Dedicated Host         | AWS Dedicated Hosts          |
+
+---
+
+## 2. **Storage**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Object Storage            | Azure Blob Storage           | Amazon S3                    |
+| File Storage              | Azure Files                  | Amazon EFS                   |
+| Block Storage             | Azure Disk Storage           | Amazon EBS                   |
+| Archive Storage           | Azure Archive Storage        | Amazon S3 Glacier            |
+| Data Lake                 | Azure Data Lake Storage      | AWS Lake Formation           |
+
+---
+
+## 3. **Networking**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Virtual Networking        | Azure Virtual Network (VNet) | Amazon VPC                   |
+| Load Balancing            | Azure Load Balancer          | Elastic Load Balancer (ELB)  |
+| CDN                       | Azure Content Delivery Network (CDN) | Amazon CloudFront       |
+| DNS Management            | Azure DNS                    | Amazon Route 53              |
+| VPN Gateway               | Azure VPN Gateway            | AWS Site-to-Site VPN         |
+| Private Connectivity      | Azure ExpressRoute           | AWS Direct Connect           |
+
+---
+
+## 4. **Databases**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Managed SQL Database      | Azure SQL Database           | Amazon RDS                   |
+| NoSQL Database            | Azure Cosmos DB              | Amazon DynamoDB              |
+| Managed MySQL             | Azure Database for MySQL     | Amazon RDS for MySQL         |
+| Managed PostgreSQL        | Azure Database for PostgreSQL| Amazon RDS for PostgreSQL    |
+| Managed MariaDB           | Azure Database for MariaDB   | Amazon RDS for MariaDB       |
+| In-Memory Cache           | Azure Cache for Redis        | Amazon ElastiCache           |
+
+---
+
+## 5. **Identity and Access Management**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Identity Management       | Azure Active Directory (Azure AD) | AWS Identity and Access Management (IAM) |
+| Multi-Factor Authentication | Azure MFA                  | AWS MFA                      |
+| Role-Based Access Control | Azure RBAC                   | AWS IAM Roles                |
+| Single Sign-On            | Azure AD SSO                 | AWS SSO                      |
+
+---
+
+## 6. **AI and Machine Learning**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Machine Learning Platform | Azure Machine Learning        | Amazon SageMaker             |
+| Pre-Built AI APIs         | Azure Cognitive Services      | AWS AI Services (e.g., Rekognition, Polly) |
+| Bot Services              | Azure Bot Service            | Amazon Lex                   |
+
+---
+
+## 7. **Analytics**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Big Data Processing       | Azure Synapse Analytics       | Amazon Redshift              |
+| Data Integration          | Azure Data Factory            | AWS Glue                     |
+| Real-Time Analytics       | Azure Stream Analytics        | Amazon Kinesis               |
+| Big Data Tools            | Azure HDInsight               | Amazon EMR                   |
+
+---
+
+## 8. **Security**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Cloud Security Posture    | Microsoft Defender for Cloud  | AWS Security Hub             |
+| SIEM                      | Microsoft Sentinel            | Amazon GuardDuty             |
+| Secrets Management        | Azure Key Vault               | AWS Secrets Manager          |
+| Web Application Firewall  | Azure Application Gateway (WAF)| AWS WAF                     |
+| DDoS Protection           | Azure DDoS Protection         | AWS Shield                   |
+
+---
+
+## 9. **DevOps**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| CI/CD                    | Azure DevOps                  | AWS CodePipeline             |
+| Repositories             | Azure Repos                   | AWS CodeCommit               |
+| Infrastructure as Code   | Azure Resource Manager (ARM)  | AWS CloudFormation           |
+| Monitoring               | Azure Monitor                 | Amazon CloudWatch            |
+
+---
+
+## 10. **IoT**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| IoT Device Management     | Azure IoT Hub                | AWS IoT Core                 |
+| IoT Analytics             | Azure IoT Central            | AWS IoT Analytics            |
+| IoT Security              | Azure Defender for IoT       | AWS IoT Device Defender      |
+
+---
+
+## 11. **Migration**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Migration Assessment      | Azure Migrate                | AWS Migration Hub            |
+| Database Migration        | Azure Database Migration Service | AWS Database Migration Service (DMS) |
+
+---
+
+## 12. **Backup and Disaster Recovery**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Backup Service            | Azure Backup                 | AWS Backup                   |
+| Disaster Recovery         | Azure Site Recovery          | AWS Elastic Disaster Recovery |
+
+---
+
+## 13. **Cost Management**
+| **Category**             | **Azure**                     | **AWS**                       |
+|---------------------------|-------------------------------|--------------------------------|
+| Cost Monitoring           | Azure Cost Management + Billing | AWS Cost Explorer           |
+| Pricing Calculator        | Azure Pricing Calculator      | AWS Pricing Calculator       |
+
+---
+
+Let me know if you'd like additional details or a focus on specific categories!
+
 
 
