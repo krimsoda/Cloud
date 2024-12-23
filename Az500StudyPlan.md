@@ -203,3 +203,198 @@ This study plan is designed to help you prepare for the AZ-500 exam by breaking 
 - [Azure Documentation](https://learn.microsoft.com/en-us/azure/)
 - [Exam Registration](https://learn.microsoft.com/en-us/certifications/exams/az-500/#certification-exam-registration)
 
+---
+
+# AZ-500: Microsoft Azure Security Technologies Study Plan
+
+## Overview
+This study plan is designed to help you prepare for the AZ-500 exam by covering all key domains and providing a structured approach to learning. The plan spans **6 weeks**, with daily tasks for study and practice.
+
+---
+
+## Week 1: Identity and Access Management (30-35%)
+### **Day 1: Introduction to Identity Concepts**
+- Read: [Azure AD Overview](https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)
+- Watch: YouTube tutorials on Azure AD basics.
+- Practice:
+  - Create an Azure Active Directory (AAD) tenant.
+  - Add and manage users in AAD.
+
+### **Day 2: Authentication and Authorization**
+- Read:
+  - [Azure Multi-Factor Authentication](https://learn.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
+  - [Azure Conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/)
+- Practice:
+  - Configure Conditional Access policies.
+  - Enable MFA for a user group.
+
+### **Day 3: Azure AD Privileged Identity Management (PIM)**
+- Read: [Azure AD PIM Overview](https://learn.microsoft.com/en-us/azure/active-directory/privileged-identity-management/pim-configure)
+- Practice:
+  - Configure PIM for a role.
+  - Assign and activate privileged roles.
+
+### **Day 4: Role-Based Access Control (RBAC)**
+- Read: [Azure RBAC Overview](https://learn.microsoft.com/en-us/azure/role-based-access-control/overview)
+- Practice:
+  - Assign built-in roles to users.
+  - Create a custom RBAC role.
+
+### **Day 5: Review and Quiz**
+- Quiz yourself on:
+  - RBAC vs. PIM.
+  - MFA and Conditional Access.
+- Take practice questions from Whizlabs or MeasureUp.
+
+### **Day 6-7: Lab Practice**
+- Use [Microsoft Learn Sandbox](https://learn.microsoft.com/en-us/training/) to:
+  - Configure and test Identity and Access scenarios.
+  - Deploy and test role assignments.
+
+---
+
+## Week 2: Platform Protection (15-20%)
+### **Day 1: Network Security Groups (NSGs)**
+- Read: [NSG Overview](https://learn.microsoft.com/en-us/azure/virtual-network/security-overview)
+- Practice:
+  - Create and configure NSGs.
+  - Test inbound/outbound rules.
+
+### **Day 2: Azure Firewall**
+- Read: [Azure Firewall Overview](https://learn.microsoft.com/en-us/azure/firewall/overview)
+- Practice:
+  - Deploy an Azure Firewall.
+  - Configure application and network rules.
+
+### **Day 3: Azure DDoS Protection**
+- Read: [Azure DDoS Protection Overview](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+- Practice:
+  - Enable DDoS protection for a virtual network.
+
+### **Day 4: Azure Bastion**
+- Read: [Azure Bastion Overview](https://learn.microsoft.com/en-us/azure/bastion/bastion-overview)
+- Practice:
+  - Configure Azure Bastion for secure RDP and SSH access.
+
+### **Day 5: Review and Quiz**
+- Focus on:
+  - NSGs vs. Azure Firewall.
+  - DDoS protection benefits.
+- Quiz: Take practice questions on platform protection.
+
+### **Day 6-7: Lab Practice**
+- Use sandbox environments to:
+  - Configure NSGs, Azure Firewall, and Bastion in a single setup.
+  - Test scenarios for securing network communication.
+
+---
+
+## Week 3: Security Operations (25-30%)
+### **Day 1: Microsoft Defender for Cloud**
+- Read: [Defender for Cloud Overview](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-cloud-introduction)
+- Practice:
+  - Enable Defender for Cloud on a subscription.
+  - Review security recommendations.
+
+### **Day 2: Azure Monitor and Log Analytics**
+- Read:
+  - [Azure Monitor Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
+  - [Log Analytics Workspace](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview)
+- Practice:
+  - Set up Log Analytics.
+  - Query logs using KQL (Kusto Query Language).
+
+### **Day 3: Security Alerts and Incident Response**
+- Read: [Investigate Incidents](https://learn.microsoft.com/en-us/azure/defender-for-cloud/investigate-alerts)
+- Practice:
+  - Simulate a security alert.
+  - Investigate using Defender for Cloud.
+
+### **Day 4: Azure Sentinel (SIEM)**
+- Read: [Azure Sentinel Overview](https://learn.microsoft.com/en-us/azure/sentinel/)
+- Practice:
+  - Deploy an Azure Sentinel workspace.
+  - Create a simple workbook and alert.
+
+### **Day 5: Review and Quiz**
+- Focus on:
+  - Defender for Cloud vs. Sentinel.
+  - Log Analytics use cases.
+- Quiz: Test your knowledge with sample security operations scenarios.
+
+### **Day 6-7: Lab Practice**
+- Perform end-to-end threat detection using:
+  - Defender for Cloud.
+  - Azure Sentinel.
+
+---
+
+## Week 4: Data and Application Security (20-25%)
+### **Day 1: Azure Key Vault**
+- Read: [Azure Key Vault Overview](https://learn.microsoft.com/en-us/azure/key-vault/general/overview)
+- Practice:
+  - Create a Key Vault.
+  - Store and retrieve secrets.
+
+### **Day 2: Data Encryption**
+- Read: [Azure Disk Encryption](https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest)
+- Practice:
+  - Enable encryption for an Azure VM.
+
+### **Day 3: Azure Security Tools**
+- Explore: [Microsoft Purview](https://learn.microsoft.com/en-us/azure/purview/)
+- Practice:
+  - Classify data using Purview.
+
+### **Day 4: App Security**
+- Read:
+  - [Application Security Groups](https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups)
+  - [Web Application Firewall](https://learn.microsoft.com/en-us/azure/web-application-firewall/)
+- Practice:
+  - Configure a Web Application Firewall (WAF).
+
+### **Day 5: Review and Quiz**
+- Review:
+  - Key Vault integration.
+  - Data encryption types.
+- Quiz: Test your knowledge on data and app security.
+
+### **Day 6-7: Lab Practice**
+- Simulate securing a web application using:
+  - Key Vault.
+  - WAF.
+
+---
+
+## Week 5: Full-Length Practice Tests
+- Take at least 2 full-length practice exams.
+- Review incorrect answers to strengthen weak areas.
+- Focus on time management during practice tests.
+
+---
+
+## Week 6: Final Review and Exam Readiness
+### **Day 1-4: Topic Refresh**
+- Revisit weak areas from practice tests.
+- Review notes and key concepts.
+
+### **Day 5: Mock Exam**
+- Take a final mock exam under timed conditions.
+
+### **Day 6: Relax and Revise**
+- Go through quick reference sheets.
+- Rest to ensure mental clarity.
+
+### **Day 7: Exam Day**
+- Stay calm and focused.
+- Remember to manage your time effectively during the exam.
+
+---
+
+## Additional Resources
+- [Microsoft Learn AZ-500 Modules](https://learn.microsoft.com/en-us/certifications/exams/az-500)
+- [Practice Tests (Whizlabs, MeasureUp)](https://www.whizlabs.com/)
+
+---
+
+Good luck with your AZ-500 preparation!
