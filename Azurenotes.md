@@ -138,3 +138,10 @@ Youtube
 [Microsoft Security](https://www.youtube.com/@MicrosoftSecurity/videos)
 
 [How I Would Learn AWS Today (after 10 years of cloud experience)](https://coggle.it/diagram/ZNyWdlpO0W45uyGP/t/star-fundamental-aws-concepts-star/e32b8f30645ef1e3ac58b95a70c8eeeff3d0f53796c601930f3752cae1f959e6?present=1&hide=34fdd6%2Cf05b17)
+
+---
+## Simulators and Emulators
+
+[Bicep Playground](https://azure.github.io/bicep/)
+
+[Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer#Download-4)
