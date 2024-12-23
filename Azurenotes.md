@@ -147,3 +147,6 @@ Youtube
 [Bicep Playground](https://azure.github.io/bicep/)
 
 [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer#Download-4)
+
+## Entra ID Pricing
+[Entra ID Pricing](https://www.microsoft.com/en-my/security/business/microsoft-entra-pricing?WT.mc_id=azureportalcard_Service_AAD_-inproduct-azureportal#x912524609100405ebf0be26daa93cb7b)
