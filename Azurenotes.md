@@ -150,3 +150,5 @@ Youtube
 
 ## Entra ID Pricing
 [Entra ID Pricing](https://www.microsoft.com/en-my/security/business/microsoft-entra-pricing?WT.mc_id=azureportalcard_Service_AAD_-inproduct-azureportal#x912524609100405ebf0be26daa93cb7b)
+
+[AZ500-AzureSecurityTechnologies-Lab](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies/tree/master/Instructions/Labs)
